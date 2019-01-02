@@ -1865,7 +1865,7 @@
 		}
 
 		.icon > .label {
-			display: none;
+			color: #fff;
 		}
 
 		.icon.circled {
@@ -1903,7 +1903,7 @@
 		}
 
 		.icon > .label {
-			display: none;
+			color: #fff;
 		}
 
 		.icon.style2 {
