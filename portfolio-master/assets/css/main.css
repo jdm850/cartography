@@ -1867,6 +1867,23 @@
 			display: none;
 		}
 
+		.icon.circled {
+			position: relative;
+			display: inline-block;
+			background: #2b252c;
+			color: #fff;
+			border-radius: 100%;
+			width: 3em;
+			height: 3em;
+			line-height: 3.25em;
+			text-align: center;
+			font-size: 1.25em;
+		}
+
+			header .icon.circled {
+				margin: 0 0 2em 0;
+			}
+
 		.icon.style2 {
 			-moz-transition: all 0.2s ease;
 			-webkit-transition: all 0.2s ease;
