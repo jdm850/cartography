@@ -1864,11 +1864,6 @@
 			-moz-osx-font-smoothing: grayscale;
 		}
 
-		.icon > .fa-instragram {
-			background: #3B5998;
-  			color: white;
-		}
-
 		.icon > .label {
 			display: none;
 		}
